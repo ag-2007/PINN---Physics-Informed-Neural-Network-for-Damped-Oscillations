@@ -1,1 +1,1 @@
-# PINN---Physics-Informed-Neural-Network-for-Damped-Oscillations
+# PINN Physics-Informed-Neural-Network-for-Damped-Oscillations
